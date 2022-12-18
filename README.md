@@ -1,6 +1,15 @@
-#  Hi, I’m Nataliia 👋
+# ⚡ Hi, I’m Nataliia ⚡
 * 🌱 I’m currently learning HTML, CSS, SCSS, JavaScript, TypeScript, Node JS, Git, React.
 * 💞️ I'm looking for collaborate with each people has being excited in creation.
+<hr>
+I am a front-end developer beginner. I have a few project builded in process on studying, based on my knowledge in: HTML, CSS, SASS, DOM, jQuery, JavaScript, Node.js, Git. 
+I have superficial knowledge in: tailwind css, react, c++ and intermediate level English.
+I have superficial knowledge in: tailwind css, react, c++ and intermediate level English. I am quick teachable, have height communicative skills, team management experience also. 
+I am characterised by stress resistance, a high level of self-organisation, punctuality and responsibility. 
+Looking for opportunity to get my first real experience in working on a project on intern or junior developer position.
+In the short term, I'm aiming to gain enough skills to qualify for a Middle position. In the next 5 years, I want to acquire the skills that would allow me to teach other people.
+
+
 ## Languages and tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatusyaZira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
