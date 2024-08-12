@@ -1,5 +1,5 @@
 # ⚡ Hi, I’m Nataliia ⚡
-* 🌱 I currently learn HTML, CSS, SCSS, JavaScript, TypeScript, Node JS, Git, React.
+* 🌱 HTML, CSS, SCSS, JavaScript, TypeScript, Node JS, Git, React.
 * 💞️ I'm looking for collaborate with each people has being excited in creation.
 <hr>
 
